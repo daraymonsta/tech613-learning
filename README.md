@@ -7,3 +7,4 @@ Learning by topic:
 ## Changes log
 
 * Add changes log
+* Check push command
